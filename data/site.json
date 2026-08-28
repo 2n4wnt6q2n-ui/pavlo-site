@@ -1,0 +1,16 @@
+{
+  "name": "PAVLO",
+  "tagline": "What people actually reorder: pads, a walk, a bowl, a treat, a toy — and the cat house.",
+  "banner": "Walk Light is on — 15% off Walk through 10 Sep. Preview catalog. Checkout is still off.",
+  "footer": "PAVLO preview · Walk Light through 10 Sep · checkout off",
+  "about": "PAVLO is an everyday pet kit.",
+  "promo": {
+    "name": "Walk Light",
+    "active": true,
+    "category": "Walk",
+    "percent": 15,
+    "start": "2026-08-27",
+    "end": "2026-09-10",
+    "next": "Pads Starter — free shipping $40+ on Pads, 11-24 Sep"
+  }
+}
