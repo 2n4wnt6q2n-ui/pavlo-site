@@ -1,16 +1,18 @@
 {
   "name": "PAVLO",
-  "tagline": "What people actually reorder: pads, a walk, a bowl, a treat, a toy — and the cat house.",
-  "banner": "Walk Light is on — 15% off Walk through 10 Sep. Preview catalog. Checkout is still off.",
-  "footer": "PAVLO preview · Walk Light through 10 Sep · checkout off",
-  "about": "PAVLO is an everyday pet kit.",
+  "tagline": "What people actually reorder: pads, a walk, a bowl, a treat, a toy \u2014 and the cat house.",
+  "banner": "Pads Starter: free shipping on Pads orders $40+. Catalog live \u00b7 all SKUs out of stock \u00b7 checkout off.",
+  "footer": "PAVLO \u00b7 Pads Starter free ship $40+ through 24 Sep \u00b7 every SKU out of stock \u00b7 checkout off",
+  "about": "PAVLO is an everyday kit for dogs and cats. The catalog is built around what people actually reorder: pads, a walk, a bowl, a treat, a toy \u2014 and the cat house.\n\nThe site is live as a catalog. Pads Starter is on: free shipping on Pads orders of $40 or more, 11\u201324 September 2026. Checkout is not open yet. Marketplace listings stay in draft until seller accounts are connected.",
   "promo": {
-    "name": "Walk Light",
+    "name": "Pads Starter",
     "active": true,
-    "category": "Walk",
-    "percent": 15,
-    "start": "2026-08-27",
-    "end": "2026-09-10",
-    "next": "Pads Starter — free shipping $40+ on Pads, 11-24 Sep"
+    "type": "free_shipping",
+    "category": "Pads",
+    "threshold": 40,
+    "percent": 0,
+    "start": "2026-09-11",
+    "end": "2026-09-24",
+    "next": "Leash Loop \u2014 12% off Leashes, 25 Sep\u20138 Oct (draft)"
   }
 }
